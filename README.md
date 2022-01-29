@@ -1,6 +1,6 @@
 # Classical Ciphers 
 
-Classical cryptographic cipher implementations: Affine Cipher, Bigram Affine Cipher, Vigenere Cipher.
+Classical cryptographic cipher implementations: Shift Cipher, Affine Cipher, Bigram Affine Cipher, Vigenere Cipher.
 
 # How to run?
 
